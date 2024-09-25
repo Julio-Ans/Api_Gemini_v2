@@ -1,0 +1,12 @@
+
+
+answer: A biologia é o estudo da vida e dos organismos vivos, abrangendo áreas como estrutura, função, genética, evolução, ecologia e biotecnologia, fornecendo conhecimento para resolver problemas globais e desenvolver novas tecnologias. \n
+
+
+
+answer: A matemática é uma ciência que explora padrões, quantidades e estruturas, servindo como ferramenta essencial para a compreensão do mundo e para a resolução de problemas em diversas áreas da vida. \n
+
+
+
+answer: A física é o estudo fundamental da natureza e de como ela funciona, buscando compreender as leis universais que governam o universo através de experimentos e observações. \n
+
